@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahiraMansoori
+- 👋 Hi, I’m @Mahira
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Full Stack Web Development and Data Science
 - 💞️ I’m looking to collaborate on innovative projects
